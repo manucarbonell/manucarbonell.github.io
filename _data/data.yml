@@ -106,8 +106,11 @@ skills:
       - name: Python 
         level: 98%
 
-      - name: C
+      - name: Shell
         level: 80%
+      
+      - name: C
+        level: 75%
 
       - name: SQL
         level: 70%
