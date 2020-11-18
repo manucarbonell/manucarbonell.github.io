@@ -99,11 +99,17 @@ publications:
         authors: Manuel Carbonell, Joan Mas Romeu, Mauricio Villegas, Alicia Fornés, Josep Lladós.
         conference: "International Conference on Document Analysis and Recognition Workshops, 2019"
 
+      - title: "Joint Recognition of Handwritten Text and Named Entities with a Neural End-to-End Model"
+        link: "https://arxiv.org/pdf/1803.06252.pdf"
+        authors: Manuel Carbonell, Mauricio Villegas, Alicia Fornés, Josep Lladós.
+        conference: "International Conference on Document Analysis Systems, 2018"
+      
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Python (pytorch, tensorflow) 
         level: 98%
 
       - name: Shell
