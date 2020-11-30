@@ -86,7 +86,7 @@ publications:
       - title: "Named Entity Recogntion and Relation Extraction with Graph Neural Networks in Semi-Structured Documents" 
         link: "https://raw.githubusercontent.com/manucarbonell/online-cv/master/assets/pdfs/icpr2020.pdf"
         authors: Manuel Carbonell, Pau Riba, Mauricio Villegas, Alicia Fornés, Josep Lladós
-        conference: "International Conference on Pattern Recognition, 2020"
+        conference: "International Conference on Pattern Recognition, 2020 (oral)"
 
 
       - title: "A Neural Model for Text Localization, Transcription and Named Entity Recognition in Full Pages"
