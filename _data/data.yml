@@ -57,6 +57,12 @@ career-profile:
       I'm a PhD candidate in Deep Learning for information extraction from semi-structured documents at the Computer Vision Center of Barcelona.
 
 education:
+    - degree: PhD in Artificial Intelligence
+      university: Autonomous University of Barcelona
+      time: 2017-2020
+      details:
+        Neural Networks for Information Extraction from Administrative and Historical Documents
+
     - degree: MSc in Modeling for Science and Engineering
       university: Autonomous University of Barcelona
       time: 2014-2016
@@ -70,10 +76,10 @@ education:
 
 experiences:
     - role: PhD Student
-      time: 2017 - Present
-      company: Computer Vision Center, Barcelona
+      time: 2017 - 2020
+      company: Computer Vision Center & omni:us, Barcelona
       details: |
-        My research focuses on information extraction from semi-structured documents with neural networks.
+        Research on information extraction from semi-structured documents with neural networks.
 
     - role: Data Scientist
       
