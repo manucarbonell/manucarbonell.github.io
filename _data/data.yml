@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Manuel Carbonell
     tagline: Data Scientist
-    avatar: "profilee.png"  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: "profile2.jpg"  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: manuel.carbonell.nunez@gmail.com
@@ -40,10 +40,8 @@ sidebar:
 
     interests:
       - item: Trombone
-        link: https://www.youtube.com/watch?v=6OJsYLvey24
 
       - item: Sax
-        link: https://youtu.be/TBbDkytf4Gs?t=106
 
       - item: Skiing
         link:
