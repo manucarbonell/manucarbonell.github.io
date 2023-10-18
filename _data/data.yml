@@ -78,10 +78,10 @@ experiences:
     - role: Senior Data Scientist
       time: 2022 - present
       company: Quant AI Lab
-      details: |
-      Vision and language model adaptation and deployment for different departments of Repsol and collaboration with their Data Science team.
+      details: As an external consultant for Repsol Data department, led the Document Analysis team, developing a human-in-the-loop solution that combined entity detection and graph neural network models for structured information extraction. Developed a library that integrated NLP and Computer Vision models.
 
-    - role: Data Scientist
+
+    - role: Senior Data Scientist
       time: 2021 - 2022
       company: Huawei
       details: |
