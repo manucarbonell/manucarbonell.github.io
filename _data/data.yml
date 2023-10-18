@@ -76,7 +76,7 @@ education:
 
 experiences:
     - role: Senior Data Scientist
-      time: 2022 - present
+      time: 2022 - 2023
       company: Quant AI Lab
       details: As an external consultant for Repsol Data department, led the Document Analysis team, developing a human-in-the-loop solution that combined entity detection and graph neural network models for structured information extraction. Developed a library that integrated NLP and Computer Vision models.
 
