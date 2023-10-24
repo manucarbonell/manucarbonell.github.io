@@ -67,7 +67,7 @@ education:
       university: Autonomous University of Barcelona
       time: 2014-2016
       details: 
-        Specialization Data Science. ML algorithms and Neural Networks for image recognition.
+        Specialization Data Science. Machine Learning (ML) algorithms and Neural Networks for image recognition.
     
     - degree: BSc in Applied Mathematics
       university: Autonomous University of Barcelona
@@ -85,7 +85,7 @@ experiences:
       time: 2021 - 2022
       company: Huawei
       details: |
-        News recommender improvement with Named Entity Recognition features. Transformer architectures adaptation and deployment.
+        News recommender improvement with Named Entity Recognition features. Transformer (XLM Roberta and other LLMs) architectures adaptation and deployment.
 
     - role: PhD Student
       time: 2017 - 2020
@@ -130,15 +130,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (pytorch, tensorflow) 
+      - name: Python (pytorch, transformers, pandas, tensorflow, numpy) 
         level: 98%
 
       - name: Shell
-        level: 80%
+        level: 85%
       
+      - name: Azure DevOps
+        level: 80%
+
       - name: C
         level: 75%
 
       - name: SQL
+        level: 73%
+  
+      - name: Java
         level: 70%
-
